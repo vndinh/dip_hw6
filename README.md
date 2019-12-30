@@ -8,7 +8,7 @@ Homework 5 Execution
   In the line 9 of each file: problem1.m, problem2.m, change the link to Test_images folder coresponding with the execution computer.
   
   imgdir = uigetdir('Your_master_directory\Test_images');
-
+	
 2. Execution & Report
 	
 	- Open Matlab with workspace is your master folder.
